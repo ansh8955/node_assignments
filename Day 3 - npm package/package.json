@@ -1,0 +1,16 @@
+{
+  "name": "@anshupadhyay/binary-search-algorithm",
+  "version": "1.0.0",
+  "description": "A simple binary search implementation",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "binary",
+    "search",
+    "algorithm"
+  ],
+  "author": "Ansh Upadhyay",
+  "license": "MIT"
+}
