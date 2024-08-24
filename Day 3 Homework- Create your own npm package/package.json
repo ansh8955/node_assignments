@@ -1,0 +1,11 @@
+{
+  "name": "ansh-array-extensions",
+  "version": "1.0.0",
+  "description": " package that extends the functionality of arrays with several useful higher-order functions (HOFs)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "anshupadhyay",
+  "license": "ISC"
+}
