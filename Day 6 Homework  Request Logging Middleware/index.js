@@ -7,12 +7,14 @@ let timeStamp = Date();
 
 let customMorganFormat = 'IP::remote-addr \nMethod::method \nURL::url \nStatus::status \nResponseTime::response-time ms \nTimeStamp::date[clf]';
 
+let consoleMorganFormat = 'Name-Ansh Upadhyay \nIP::remote-addr \nMethod::method \nURL::url \nStatus::status \nResponseTime::response-time ms \nTimeStamp::date[clf]';
+
 
 let accessLogStream = fs.createWriteStream(__dirname + '/access.log', { flags: 'a' });
 
 
 app.use(morgan(customMorganFormat, { stream: accessLogStream }));  
-app.use(morgan(customMorganFormat));  
+app.use(morgan(consoleMorganFormat));  
 
 app.get("/user", (req, res) => {
   res.json({

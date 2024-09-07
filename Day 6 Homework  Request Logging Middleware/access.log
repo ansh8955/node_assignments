@@ -4,3 +4,27 @@ URL:/user
 Status:200 
 ResponseTime:6.373 ms 
 TimeStamp:07/Sep/2024:17:15:11 +0000
+IP:::1 
+Method:GET 
+URL:/user 
+Status:200 
+ResponseTime:15.570 ms 
+TimeStamp:07/Sep/2024:17:18:57 +0000
+IP:::1 
+Method:GET 
+URL:/user 
+Status:200 
+ResponseTime:12.239 ms 
+TimeStamp:07/Sep/2024:17:21:46 +0000
+IP:::1 
+Method:GET 
+URL:/user 
+Status:200 
+ResponseTime:10.771 ms 
+TimeStamp:07/Sep/2024:17:22:13 +0000
+IP:::1 
+Method:GET 
+URL:/user 
+Status:200 
+ResponseTime:8.872 ms 
+TimeStamp:07/Sep/2024:17:22:42 +0000
