@@ -1,0 +1,18 @@
+{
+  "dependencies": {
+    "express": "^4.19.2",
+    "nanoid": "^5.0.7"
+  },
+  "name": "day-7-project--url-shortner-application",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
